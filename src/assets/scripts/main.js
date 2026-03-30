@@ -1,3 +1,5 @@
+import "flyonui/flyonui";
+
 // --- Dark/Light Mode Logic ---
 const themeToggleBtn = document.getElementById("theme-toggle");
 const htmlElement = document.documentElement;
